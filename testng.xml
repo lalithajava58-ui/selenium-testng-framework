@@ -1,0 +1,12 @@
+
+<suite name="UI Suite" parallel="false">
+
+<test name="Google Test">
+
+<classes>
+<class name="com.company.tests.testcases.GoogleSearchTest"/>
+</classes>
+
+</test>
+
+</suite>
